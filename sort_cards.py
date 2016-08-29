@@ -6,10 +6,25 @@
 # so that sorted list of cards looks like this:
 # ['A', '2', '3', '4', '5', '6', '7', '8', '9', 'T', 'J', 'Q', 'K'].
 
+# Pseudo-Code
 
-# Assign each card above a priority value so that: A is 1, 2 is 2, 3 is 3,
-# 4 is 4, 5 is 5, 6 is 6, 7 is 7, 8 is 8, 9 is 9, T is 10, J is 11,
-# Q is 12, K is 13.
+# Take in a list of unordered cards by type.
+# Assign a numerical value to each.
 
-# The numbered cards have their priority value equivalent to their face
-# value.
+card_face_list = ['A', '2', '3', '4', '5', '6', '7', '8', '9', 'T', 'J', 'Q', 'K']
+
+card_values_list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+
+# Iterate through each card in the unsorted list and assign it a value
+#  using if elif statements.
+# Create a sorted list of the numerical values appending each card processed 
+#  to that sorted list.
+# Use the sorted method to resort the list.
+# Translate the card value back into its key.
+# Return the sorted list of card keys.
+
+
+#  WRITE THE CODE IF TIME
+
+
+
