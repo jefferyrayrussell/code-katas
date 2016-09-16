@@ -13,3 +13,9 @@ The flight_paths.py function:
 A calculate_distance function is provided for the exercise along with a
 JSON file contains some cities with international airports, each with a 
 latitude, a longitude, and a city that it connects to.
+
+Resources:
+https://docs.python.org/3/howto/urllib2.html
+https://support.zendesk.com/hc/en-us/articles/217296537-Working-with-JSON
+https://docs.python.org/3.5/library/functions.html#next
+http://stackoverflow.com/questions/1733004/python-next-function
